@@ -1,0 +1,42 @@
+[
+  {
+    "id": "official-site",
+    "title": "THE FINALS 공식사이트",
+    "category": "공식 링크",
+    "date": "상시",
+    "summary": "THE FINALS의 최신 소식, 시즌 정보, 이벤트, 게임 모드 안내를 확인할 수 있는 공식사이트입니다. 자세한 내용은 공식사이트에서 확인하세요.",
+    "url": "https://www.reachthefinals.com/"
+  },
+  {
+    "id": "patch-note-example-001",
+    "title": "패치노트 안내 예시",
+    "category": "패치노트",
+    "date": "공식사이트 확인",
+    "summary": "공식사이트에 공개된 패치노트 안내입니다. 앱에서는 전문을 복사하지 않고 제목, 요약, 원문 링크 중심으로 제공합니다.",
+    "url": "https://www.reachthefinals.com/patchnotes"
+  },
+  {
+    "id": "event-example-001",
+    "title": "이벤트 안내 예시",
+    "category": "이벤트",
+    "date": "공식사이트 확인",
+    "summary": "공식사이트에 공개된 이벤트 안내입니다. 자세한 내용은 공식사이트 원문에서 확인하세요.",
+    "url": "https://www.reachthefinals.com/"
+  },
+  {
+    "id": "notice-example-001",
+    "title": "공지사항 안내 예시",
+    "category": "공지사항",
+    "date": "공식사이트 확인",
+    "summary": "THE FINALS 관련 공지사항을 확인할 수 있는 공식 링크 안내입니다. 앱에서는 짧은 요약과 원문 링크만 제공합니다.",
+    "url": "https://www.reachthefinals.com/"
+  },
+  {
+    "id": "embark-support",
+    "title": "Embark 지원 페이지",
+    "category": "공식 링크",
+    "date": "상시",
+    "summary": "계정, 오류, 결제, 게임 이용 관련 문제는 Embark 공식 지원 페이지에서 확인할 수 있습니다.",
+    "url": "https://id.embark.games/support"
+  }
+]
