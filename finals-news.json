@@ -1,5 +1,13 @@
 [
   {
+    "id": "discord-1572935712385277985",
+    "title": "It’s the perfect time to chill on the couch and play games, and do we have the ideal set in store for you!",
+    "category": "패치노트",
+    "date": "It takes a special set of skills to be able to top the leaderboard with one hand constantly busy reaching inside a nearly empty bag of ÖRF! Tails, but here you are. Let people know they’re playing on your cushy turf with the Couch Contestant Set.",
+    "summary": "And remember, we’re only one week away from the opening of The Grand Major 2026. Place your bets, ready your banners, and prepare for action! Check out the Patch notes here See you in Stockholm and in the Arena! <:namaheart:1107969312452526180> @Game Updates",
+    "url": "https://www.reachthefinals.com/patchnotes/12-40"
+  },
+  {
     "id": "discord-1572252415539814461",
     "title": "Contestants we have a hotfix for you!",
     "category": "패치노트",
@@ -390,13 +398,5 @@
     "date": "공식사이트 확인",
     "summary": "THE FINALS 관련 공지사항을 확인할 수 있는 공식 링크 안내입니다. 앱에서는 짧은 요약과 원문 링크만 제공합니다.",
     "url": "https://www.reachthefinals.com/"
-  },
-  {
-    "id": "embark-support",
-    "title": "Embark 지원 페이지",
-    "category": "공식 링크",
-    "date": "상시",
-    "summary": "계정, 오류, 결제, 게임 이용 관련 문제는 Embark 공식 지원 페이지에서 확인할 수 있습니다.",
-    "url": "https://id.embark.games/support"
   }
 ]
