@@ -1,5 +1,13 @@
 [
   {
+    "id": "discord-1575471150778286080",
+    "title": "The Grand Major 2026 is kicking off tomorrow! Get ready for 3 days of intense action, live from DreamHack Stockholm.",
+    "category": "패치노트",
+    "date": "Trouble has arrived in the Arena with **The Primetimer Set**. You’re no outlaw if you are the one setting the rules in the first place. **The Major Force Set** is also here for you to keep a piece of TGM26’s action with you! The Sponsors will be watching.",
+    "summary": "**TUNE IN FOR THE GRAND MAJOR 2026 TOMORROW** Sixteen teams, three regions, one winner. It’s also your last chance to lock in your Pick'ems! Picks are closing <t:1795733940:f> The show is almost on, the teams are ready, and the Twitch Drops are just a day away. Witness History being made and grab some special TGM26 loot with you back to the Arena. You were there, Contestant. Every match will be live on twitch.tv/thefinals & Youtube starting <t:1795775400:f> or catch it in person at DreamHack Stockholm. Check out the full Patchnotes here 👇 SEE YOU IN STOCKHOLM.",
+    "url": "https://www.reachthefinals.com/patchnotes/tgm26-seedings"
+  },
+  {
     "id": "discord-1574500146031632407",
     "title": "Sixteen Teams, One Throne.",
     "category": "패치노트",
@@ -390,13 +398,5 @@
     "date": "공식사이트 확인",
     "summary": "공식사이트에 공개된 패치노트 안내입니다. 앱에서는 전문을 복사하지 않고 제목, 요약, 원문 링크 중심으로 제공합니다.",
     "url": "https://www.reachthefinals.com/patchnotes"
-  },
-  {
-    "id": "event-example-001",
-    "title": "이벤트 안내 예시",
-    "category": "이벤트",
-    "date": "공식사이트 확인",
-    "summary": "공식사이트에 공개된 이벤트 안내입니다. 자세한 내용은 공식사이트 원문에서 확인하세요.",
-    "url": "https://www.reachthefinals.com/"
   }
 ]
